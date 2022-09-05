@@ -81,6 +81,7 @@ class PostsController extends AppController {
 
 	public function create() {
 
+		//create 
 		$post = $this->Posts->newEmptyEntity();
 
 		if($this->request->is('post')) {
