@@ -210,7 +210,7 @@ endif;
                     <div class="column links">
                         <h3>Docs and Downloads</h3>
                         <a target="_blank" rel="noopener" href="https://api.cakephp.org/">CakePHP API</a>
-                        <a target="_blank" rel="noopener" href="https://bakery.cakephp.org">The Bakery</a>
+                        <a target="_blank" rel="noopener" href="https://bakery.cakephp.org">The Art of Bakery</a>
                         <a target="_blank" rel="noopener" href="https://book.cakephp.org/4/en/">CakePHP Documentation</a>
                         <a target="_blank" rel="noopener" href="https://plugins.cakephp.org">CakePHP plugins repo</a>
                         <a target="_blank" rel="noopener" href="https://github.com/cakephp/">CakePHP Code</a>
