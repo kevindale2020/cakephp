@@ -223,7 +223,7 @@ endif;
                     <div class="column links">
                         <h3>Training and Certification</h3>
                         <a target="_blank" rel="noopener" href="https://cakefoundation.org/">Cake Software Foundation</a>
-                        <a target="_blank" rel="noopener" href="https://training.cakephp.org/">CakePHP Training</a>
+                        <a target="_blank" rel="noopener" href="https://training.cakephp.org/">CakePHP Training 2022</a>
                     </div>
                 </div>
             </div>
